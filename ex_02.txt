@@ -1,0 +1,1 @@
+To concatenate strings you can use the + operator
