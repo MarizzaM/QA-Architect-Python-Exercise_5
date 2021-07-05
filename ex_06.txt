@@ -1,0 +1,1 @@
+A dictionary entry in python is a set of information in format:  'key : value'
